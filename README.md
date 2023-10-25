@@ -1,2 +1,6 @@
 # k6-loadtest
-run :> k6 run index.ts   
+
+```bash
+# development
+$ k6 run index.ts
+```
